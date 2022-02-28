@@ -1,1 +1,0 @@
-# Globalized Newton’s Method
